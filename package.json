@@ -1,0 +1,24 @@
+{
+  "name": "summer",
+  "version": "0.0.1",
+  "description": "Microservices framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniloprevides/summer.git"
+  },
+  "keywords": [
+    "microservices",
+    "websocket",
+    "typescript"
+  ],
+  "author": "Danilo Prevides",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daniloprevides/summer/issues"
+  },
+  "homepage": "https://github.com/daniloprevides/summer#readme"
+}
